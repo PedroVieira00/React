@@ -12,12 +12,12 @@ To view each project:
 
 ### 3.Navigate into the project folder and install dependencies:
 
-```cd project-folder
-npm install```
+`cd project-folder
+npm install`
 
 ### 4.Start the development server:
 
-```npm start or npm run dev```
+`npm start or npm run dev`
 
 ### 5.Course Information
 
