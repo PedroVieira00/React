@@ -6,20 +6,23 @@ This repository contains projects I am building as part of my React course. Each
 
 To view each project:
 
-### 1.Clone the repository:
+### 1. Clone the repository:
 
 `git clone https://github.com/PedroVieira00/React.git`
 
-### 2.Navigate into the project folder and install dependencies:
+### 2. Navigate into the project folder and install dependencies:
 
-`cd project-folder <br>
-npm install`
+```lisp
+cd project-folder <br>
+npm install
+```
 
-### 3.Start the development server:
+### 3. Start the development server:
 
 `npm start` or `npm run dev`
 
-### **Course Information**
+## **Course Information**
 
 **Course:** React - The Complete Guide 2024 (incl. Next.js, Redux) on Udemy by Maximilian Schwarzmüller.
+
 **Topics Covered:** Components, State, Hooks, API integration, Redux, Authentication, Multi-Page SPA with Router, Next.js.
