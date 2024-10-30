@@ -13,13 +13,22 @@ To view each project:
 ### 2. Navigate into the project folder and install dependencies:
 
 ```lisp
-cd project-folder <br>
+cd project-folder
 npm install
 ```
 
 ### 3. Start the development server:
 
 `npm start` or `npm run dev`
+
+### 4. If the project has a backend folder:
+
+Open another terminal:
+
+```lisp
+cd backend
+node app.js
+```
 
 ## **Course Information**
 
